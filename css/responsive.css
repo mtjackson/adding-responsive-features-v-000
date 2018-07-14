@@ -73,4 +73,11 @@
   #navbar nav a {
     display: none;
   }
+
+  #navbar nav a.menu {
+    display: block;
+    float: right;
+    font-size: 1.5em;
+    padding: 10px;
+  }
 }
