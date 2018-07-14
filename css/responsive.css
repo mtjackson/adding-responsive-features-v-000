@@ -90,3 +90,10 @@
     top: 60px;
   }
 }
+
+@media only screen (max-width: 495px) {
+
+  #logo h2 {
+    visibility: hidden;
+  }
+}
